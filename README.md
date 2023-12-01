@@ -16,8 +16,15 @@ you can download dataset from kaggle -https://www.kaggle.com/code/prasadchaskar/
 Methods with achieve Accuracy:
 Methods         Accuracy:
 RNN -              80%
+
 LSTM              84.80%
+
 CNN               86.29%
-***Simple RNN based models are not very good at capturing long-term contexts. Thus it does not perform quite well and achieves an accuracy of close to 80%
+
+***Simple RNN based models are not very good at capturing long-term contexts. Thus it does not perform quite well and achieves an accuracy of close to 80%.
+
+
 ***LSTM (Long short-term Memory) networks were designed to address the problem of remembering longer contexts(wrt. to simple RNNs).It achieves the best accuracy of close to 85% on the test dataset.
+
+
 ***Model trains much faster(wrt. LSTM and RNN based networks) and achieves the best accuracy of close to 86.29%% on our test dataset. *
