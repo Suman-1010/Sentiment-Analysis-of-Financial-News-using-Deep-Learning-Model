@@ -14,7 +14,11 @@ Evaluation: Evaluate the model's performance.
 you can download dataset from kaggle -https://www.kaggle.com/code/prasadchaskar/sentiment-analysis-for-financial-news/input
 
 Methods with achieve Accuracy:
+
+
 Methods         Accuracy:
+
+
 RNN -              80%
 
 LSTM              84.80%
